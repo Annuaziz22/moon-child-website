@@ -5,9 +5,9 @@
 
 body {
     background-image:
-        url(https://i.pinimg.com/originals/fc/10/7c/fc107c63b79758f74bb4052db1bc4870.jpg) ;
-        background-size : cover;
-background-repeat: no-repeat;
+        url(https://i.pinimg.com/originals/fc/10/7c/fc107c63b79758f74bb4052db1bc4870.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
@@ -23,6 +23,7 @@ h1 {
     justify-content: space-between;
     justify-content: right;
     align-items: center;
+
 }
 
 .navbar ul li {
